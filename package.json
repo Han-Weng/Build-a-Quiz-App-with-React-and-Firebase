@@ -1,0 +1,23 @@
+{
+  "name": "build-a-quiz-app-with-react-and-firebase",
+  "version": "1.0.0",
+  "description": "![Cover Image](./images/cover.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Han-Weng/Build-a-Quiz-App-with-React-and-Firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Han-Weng/Build-a-Quiz-App-with-React-and-Firebase/issues"
+  },
+  "homepage": "https://github.com/Han-Weng/Build-a-Quiz-App-with-React-and-Firebase#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "start": "^5.1.0"
+  }
+}
